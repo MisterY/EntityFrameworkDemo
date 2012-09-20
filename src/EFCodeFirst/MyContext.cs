@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EFCodeFirst
 {
-    public class Class1
+    public class MyContext
     {
     }
 }

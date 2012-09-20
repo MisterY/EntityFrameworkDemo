@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EFCodeFirst.Tests
 {
-    public class Class1
+    public class MyContext: DbContext
     {
     }
 }
