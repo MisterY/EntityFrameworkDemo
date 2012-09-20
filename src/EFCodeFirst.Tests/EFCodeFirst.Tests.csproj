@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>24168c18-cb95-44a7-bf6d-f21ad046790d</ProjectGuid>
+    <ProjectGuid>{4353928A-65EA-4BEB-9421-49C30C34733F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EFCodeFirst.Tests</RootNamespace>
